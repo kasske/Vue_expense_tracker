@@ -4,7 +4,7 @@ Mini project messing around with Composition Api.
 
 It uses [Vue toastification](https://vue-toastification.maronato.dev/) to notify on state changes while using the app
 
-Shoutout to Traversy Media, and his crash courses
+Shoutout to, [Traversy Media](https://www.youtube.com/@TraversyMedia) and his crash courses
 
 ## Recommended IDE Setup
 
