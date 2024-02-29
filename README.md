@@ -1,6 +1,10 @@
 # vue-expense-tracker
 
-This template should help get you started developing with Vue 3 in Vite.
+Mini project messing around with Composition Api.
+
+It uses [Vue toastification](https://vue-toastification.maronato.dev/) to notify on state changes while using the app
+
+Shoutout to Traversy Media, and his crash courses
 
 ## Recommended IDE Setup
 
